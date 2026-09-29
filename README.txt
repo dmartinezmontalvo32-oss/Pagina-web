@@ -65,3 +65,5 @@ Credits:
 
 	Other:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
+
+Despliegue de la página web mediante GitHub Pages.
